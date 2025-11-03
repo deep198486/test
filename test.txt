@@ -1,3 +1,3 @@
-Description WinAtpTest
-Value x6o8Q~FSz5Qdqg9bHQwlsm-0FoIHt6WmDDjZKc.E
-Secret ID 597fe2df-8637-45ac-baef-91309c4f54ba
+Application (client) ID:0abdce93-8b4f-4363-a124-b5d119c6a862
+Value: x6o8Q~FSz5Qdqg9bHQwlsm-0FoIHt6WmDDjZKc.E
+Secret ID: 597fe2df-8637-45ac-baef-91309c4f54ba
